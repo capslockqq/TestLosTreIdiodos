@@ -13,7 +13,7 @@ int main() {
 }
 
 void MadsFunktion() {
-	
+	cout << "hej fra mads" << endl;
 }
 
 void AndersFunktions() {
