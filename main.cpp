@@ -19,7 +19,3 @@ void MadsFunktion() {
 void AndersFunktions() {
 	
 }
-
-void EmilsFunktion() {
-	
-}
